@@ -25,7 +25,7 @@ This documentation explains how to use our custom Docker-like system with the ba
 - Clone or create the project structure:
 
 ```bash
-git clone https://github.com/your-repo/docker-lite.git
+git clone https://github.com/yashmakhija/docklite
 ```
 
 - Navigate to the project directory:
